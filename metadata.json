@@ -1,0 +1,6 @@
+{
+  "name": "Ruleta de Decisiones & Sorteos",
+  "description": "Ruleta aleatoria interactiva y personalizable para sorteos, juegos y decisiones con hasta 30 opciones, sonidos y efectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
